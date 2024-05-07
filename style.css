@@ -1,0 +1,32 @@
+body{
+    font-family: "Poppins" , sans-serif;
+    color : rgb(223, 204, 167);
+    background-color:rgba(17, 17, 46, 0.897);
+}
+#tr{
+    font-size: small;
+}
+#sub{
+    text-align: center;
+}
+.function{
+    overflow: hidden;;
+}
+#image-left{
+    float: left;
+    width: 50%;
+    height: 100%;
+    margin-right:5%;
+}
+#image-right{
+    float: right;
+    width: 50%;
+    height: 100%;
+    margin-right:5%;
+}
+#image-center{
+    float: center;
+    width: 50%;
+    height: 100%;
+    margin-right:5%;
+}
